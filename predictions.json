@@ -1,0 +1,19 @@
+{"predictions":[
+    {"etiqueta":"bienvenida",
+    "patrones":["Hola","Que tal estas","Hay alguien ahi?","Buenos dias","Buenas tardes","Buenas noches","Ten un buen dia","Ey"],
+    "respuestas":["Hola!","Encantado de verte otra vez!","Hola,¿en que te puedo ayudar?"],
+    "contexto":""
+    },
+    {"etiqueta":"despedida",
+    "patrones":["Adios","Hasta luego","Nos vemos","Cuidate","Que te vaya bien","Chao"],
+    "respuestas":["Encantado de haber charlado contigo","Hablamos más tarde","Adios :)"],
+    "contexto":""
+    },
+    {"etiqueta":"videojuegos",
+    "patrones":["¿A que juego deberia de jugar hoy?","¿Qué tipos de juegos te gustan?","¿Cuál es el mejor juego?"],
+    "respuestas":["Al que más te guste, tienes infinidad de juegos de todo tipo, seguro que encontrarás el que más te guste","Me gustan todo los tipos de juego, soy un chatbot de Discord, he tenido que soportar de todo","Los mejores juegos son los que juegas con tus amigos"],
+    "contexto":""
+    }
+
+]
+}
